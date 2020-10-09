@@ -10,16 +10,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+<!DOCTYPE html>
+This is My Hello World
+# Header 1 I have spent close to a month trying to choose the proper interface.  Github was not my first choice.  LoL
+## Header 2 Through Github I now have learned how to choose a web template page, and edit that pages code to my liking.
+### Header 3 I am also learming how to make things pretty with CSS language.
 
-# Header 1
-## Header 2
-### Header 3
+- Bulleted Time Spent Coding is Time Well Spent! LoL
+- List Code- 6
++ hours a day
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Numbered 5
+2. List Days a Week
 
 **Bold** and _Italic_ and `Code` text
 
